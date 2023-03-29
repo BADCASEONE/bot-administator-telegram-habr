@@ -2,7 +2,7 @@ import telebot
 import time
 
 # Создаем объект бота и токен
-bot = telebot.TeleBot('6103458272:AAEupkxUTFqM5u-8MQDcqGabFHn9SNEJRbw')
+bot = telebot.TeleBot('token_here')
 
 # Словарь для хранения статистики чата
 stats = {}
